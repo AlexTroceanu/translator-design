@@ -1,0 +1,13 @@
+27+15;
+112-27;
+200.89;
+199.2112;
+100/2;
+250>200;
+250>=250;
+% comment;
+AA99;
+ABCDaz19212;
+AAazzawedagrhsaw;
+Aaaa21321bbbbccc;
+zfea231ccnc903;
